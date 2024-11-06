@@ -1,0 +1,11 @@
+{
+  "name": "pysio-vuepress-components",  
+  "version": "1.0.2",
+  "description": "Pysio Home Vuepress Components",
+  "main": "src/index.js",
+  "license": "AGPL-3.0-only",
+  "peerDependencies": {},
+  "files": [
+    "src"
+  ]
+}
